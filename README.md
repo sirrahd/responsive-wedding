@@ -1,4 +1,4 @@
-responsive-wedding
+wedding
 ------------------
 
 A fork of the HTML5 responsive design by [Bradley Greenwood](http://github.com/bmgdev/) for our public wedding and farewell party, using jquery waypoints & scroll-to for a pleasant single-page navigation. This template makes use of media queries and scales well for all mobile form-factors.
